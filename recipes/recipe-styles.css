@@ -1,0 +1,24 @@
+h1,
+h2,
+p {
+  font-family: 'Times New Roman', serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  color: rgb(214, 33, 9);
+}
+
+img {
+  height: auto;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  font-size: 36px;
+  background-color: rosybrown;
+}
